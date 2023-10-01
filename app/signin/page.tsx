@@ -48,7 +48,7 @@ const SigninPage = () => {
                       </defs>
                     </svg>
                   </span>
-                  Sign in with Google
+                  Sign in with Google commit test
                 </button> */}
                 <div className="mb-8 flex items-center justify-center">
                   <span className="hidden h-[1px] w-full max-w-[70px] bg-body-color sm:block"></span>
